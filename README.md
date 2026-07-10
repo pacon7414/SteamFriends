@@ -12,3 +12,9 @@
 
 ### 使用方法：[issue1](https://github.com/systemannounce/SteamFriends/issues/1)
 
+
+
+## Steam好友列表
+| Avatar                                                                            | Name     | steamid                                                                     | is_friend   | BFD                 | removed_time   | Remark   |
+|:----------------------------------------------------------------------------------|:---------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------------|:---------|
+| ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | vdpd9091 | [76561198692443973](https://steamcommunity.com/profiles/76561198692443973/) | ✅           | 2026-06-15 13:29:27 |                |          |
